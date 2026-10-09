@@ -1,7 +1,7 @@
 # RepoFix-Mini — Finding Is Not Fixing
 
 Code, benchmark and episode logs for the paper
-**"Finding Is Not Fixing: Repository Structure Speeds Localization but Not Repair in Gemma 4 Coding Agents"**
+**"Finding Is Not Fixing: Structure Speeds Localization, Not Repair, in Gemma 4"**
 (Kaggle — Google Gemma 4 Developer Agent, Paper Track, 2026).
 
 Author: Ali A. Al-Saffar, College of Administration and Economics, University of Mosul, Iraq
