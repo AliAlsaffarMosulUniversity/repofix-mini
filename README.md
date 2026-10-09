@@ -46,7 +46,7 @@ python analysis/analyze.py      # prints all tables, writes results/summary.csv
 python analysis/figure.py       # writes results/figure1.png
 ```
 
-## Re-run the experiment (Kaggle, 2× T4, about 16 GPU-hours)
+## Re-run the experiment (Kaggle, 2× T4, two to three 12-hour sessions)
 
 1. Create a Kaggle notebook from `notebooks/02_gemma4_repo_representation.ipynb`.
 2. Add inputs: a dataset containing `data/repofix_mini_tasks.jsonl` renamed to
