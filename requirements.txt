@@ -1,0 +1,10 @@
+# analysis
+numpy
+pandas
+scipy
+matplotlib
+# experiments (Kaggle, 2x T4)
+transformers
+accelerate
+bitsandbytes
+pytest
